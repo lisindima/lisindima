@@ -1,4 +1,6 @@
-### Hi, I'm Dmitriy 👋
+# Hello 👋
+## I'm Dmitriy Lisin
+### I make iOS apps with SwiftUI.
 
 <!--
 **lisindima/lisindima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
